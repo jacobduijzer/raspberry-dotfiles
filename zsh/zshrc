@@ -1,5 +1,5 @@
 # Linux antigen file
-source ~/.antigen.zsh
+source ~/.dotfiles/zsh/antigen.zsh
 
 export EDITOR="vim"
 export TERM="xterm-256color"
